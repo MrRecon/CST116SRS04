@@ -2,7 +2,7 @@
 Triangle
 
 
-Class ID: 
+Class ID: Bouffalant 
 
 SRS ID: CST116SRS04
 
