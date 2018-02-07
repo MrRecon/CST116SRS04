@@ -8,7 +8,7 @@ SRS ID: CST116SRS04
 
 Unresolved Issues:  
 
-Notes:  
+Notes: Working with simon, our knowledge is similar and we bounce ideas off of each other. Some code may look alike. 
 
 
 ---
